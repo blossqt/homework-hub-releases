@@ -2,7 +2,7 @@
 
 All your Brightspace, Gradescope and Pearson deadlines in one list, on your laptop and your phone.
 
-**Latest version: 1.9.1** · [Download](https://github.com/blossqt/homework-hub-releases/releases/latest)
+**Latest version: 1.9.2** · [Download](https://github.com/blossqt/homework-hub-releases/releases/latest)
 
 ## Install
 
